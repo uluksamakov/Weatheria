@@ -17,13 +17,13 @@ Weatheria a weather application that keep track of the weather around the world 
 
 ### Links
 
-- Solution URL: [https://github.com/ErysCode7/weatheria](https://github.com/ErysCode7/weatheria)
+- Solution URL: [https://github.com/webstar0411/weatheria](https://github.com/webstar0411/weatheria)
 - Live Site URL: [https://weatheria-taupe.vercel.app/](https://weatheria-taupe.vercel.app/)
 
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:ErysCode7/weatheria.git
+   git clone git@github.com:webstar0411/weatheria.git
    ```
 
 2. Install NPM packages
@@ -51,5 +51,5 @@ Weatheria a weather application that keep track of the weather around the world 
 
 - Facebook - [Erys Mozo](https://web.facebook.com/erys.mozo/)
 - Instagram - [\_erysmozo](https://www.instagram.com/_erysmozo/)
-- Frontend Mentor - [ErysCode7](https://www.frontendmentor.io/profile/ErysCode7)
+- Frontend Mentor - [webstar0411](https://www.frontendmentor.io/profile/webstar0411)
 - LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
