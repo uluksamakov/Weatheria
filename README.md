@@ -23,7 +23,7 @@ Weatheria a weather application that keep track of the weather around the world 
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:webstar0411/weatheria.git
+   git clone full-stack-er/Weatheria.git
    ```
 
 2. Install NPM packages
