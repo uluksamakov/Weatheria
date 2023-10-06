@@ -31,8 +31,11 @@ Weatheria a weather application that keep track of the weather around the world 
    ```sh
    npm install
    ```
-
-3. Run app
+3. Build app
+   ```sh
+   npm run build
+   ```
+4. Run app
 
    ```sh
    npm start
