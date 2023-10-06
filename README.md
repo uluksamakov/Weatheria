@@ -23,7 +23,7 @@ Weatheria a weather application that keep track of the weather around the world 
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:webstar0411/weatheria.git
+   git clone full-stack-er/Weatheria.git
    ```
 
 2. Install NPM packages
@@ -31,8 +31,11 @@ Weatheria a weather application that keep track of the weather around the world 
    ```sh
    npm install
    ```
-
-3. Run app
+3. Build app
+   ```sh
+   npm run build
+   ```
+4. Run app
 
    ```sh
    npm start
